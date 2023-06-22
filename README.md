@@ -1,2 +1,1 @@
 # HorizontalScrollTilesThree
-Created with CodeSandbox
